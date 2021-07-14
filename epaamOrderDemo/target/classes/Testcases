@@ -1,0 +1,19 @@
+localhost:8080/epaam/store/receiveOrders
+
+{
+	"orderId": 1001,
+	"items": [
+		{
+			"name": "apple",
+			"category": "fruit",
+			"price": 40,
+			"quantity": 5
+		},
+		{
+			"name": "apple",
+			"category": "fruit",
+			"price": 10,
+			"quantity": 5
+		}
+	]
+}
