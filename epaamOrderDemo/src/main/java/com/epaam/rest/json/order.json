@@ -1,0 +1,18 @@
+{
+	"orderId": 1001,
+	"items": [
+		{
+			"name": "apple",
+			"category": "fruit",
+			"price": 10,
+			"quantity": 5
+		},
+		{
+			"name": "apple",
+			"category": "fruit",
+			"price": 10,
+			"quantity": 5
+		}
+	],
+	"price": 100
+}
